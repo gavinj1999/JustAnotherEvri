@@ -3,7 +3,8 @@
     "allow": [
       "Bash(xargs grep *)",
       "Bash(php -r \"echo phpversion\\(\\);\")",
-      "Bash(grep -v \"^$\")"
+      "Bash(grep -v \"^$\")",
+      "Bash(ssh *)"
     ]
   }
 }
